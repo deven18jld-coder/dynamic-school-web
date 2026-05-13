@@ -1,0 +1,7 @@
+# Placeholder robots.txt — will be replaced by dynamic robots.ts in Phase 6
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /admin/login
+
+Sitemap: https://your-school-domain.com/sitemap.xml
